@@ -311,6 +311,8 @@ img {
   z-index: 1;
   padding: 10px;                     /* thickness of wood frame */
   background: #7a5a3a;               /* brown wood tone */
+  max-height: 100%;
+  margin: auto;
 }
 
 .art-frame {
