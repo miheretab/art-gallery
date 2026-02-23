@@ -27,13 +27,13 @@
     </div>
   </a>
 
-  <a href="#<!--  route('painting', 'first-snow')  -->" class="art">
+  <a href="#<!--  route('painting', 'beaver-dam')  -->" class="art">
     <div class="art-frame">
-      <img src="{{ asset('images/FirstSnow.webp') }}" class="base" alt="First Snow">
-      <img src="{{ asset('images/KWall-FirstSnow.webp') }}" class="hover" alt="First Snow">
+      <img src="{{ asset('images/BeaverDam.webp') }}" class="base" alt="Beaver Dam">
+      <img src="{{ asset('images/KWall-BeaverDam.webp') }}" class="hover" alt="Beaver Dam">
     </div>
     <div class="art-caption">
-      <span class="art-title">First Snow</span>
+      <span class="art-title">Beaver Dam</span>
       <span class="art-meta"></span>
       <span class="art-status"></span>
     </div>
@@ -46,6 +46,54 @@
     </div>
     <div class="art-caption">
       <span class="art-title">Magic Tree</span>
+      <span class="art-meta"></span>
+      <span class="art-status"></span>
+    </div>
+  </a>
+
+  <a href="#<!--  route('painting', 'magic-tree')  -->" class="art">
+    <div class="art-frame">
+      <img src="{{ asset('images/MagicTree.webp') }}" class="base" alt="Magic Tree">
+      <img src="{{ asset('images/KWall-MagicTree.webp') }}" class="hover" alt="Magic Tree">
+    </div>
+    <div class="art-caption">
+      <span class="art-title">Magic Tree</span>
+      <span class="art-meta"></span>
+      <span class="art-status"></span>
+    </div>
+  </a>
+
+  <a href="#<!--  route('painting', 'up-reservoir')  -->" class="art">
+    <div class="art-frame">
+      <img src="{{ asset('images/UPReservoir.webp') }}" class="base" alt="UP Reservoir">
+      <img src="{{ asset('images/KWall-UPReservoir.webp') }}" class="hover" alt="UP Reservoir">
+    </div>
+    <div class="art-caption">
+      <span class="art-title">UP Reservoir</span>
+      <span class="art-meta"></span>
+      <span class="art-status"></span>
+    </div>
+  </a>
+
+  <a href="#<!--  route('painting', 'first-snow') }} -->" class="art">
+    <div class="art-frame">
+      <img src="{{ asset('images/FirstSnow.webp') }}" class="base" alt="First Snow">
+      <img src="{{ asset('images/KWall-FirstSnow.webp') }}" class="hover" alt="First Snow">
+    </div>
+    <div class="art-caption">
+      <span class="art-title">First Snow</span>
+      <span class="art-meta"></span>
+      <span class="art-status"></span>
+    </div>
+  </a>
+
+  <a href="#<!--  route('painting', 'three-little-trees') }} -->" class="art">
+    <div class="art-frame">
+      <img src="{{ asset('images/ThreeLittleTrees.webp') }}" class="base" alt="Three Little Trees">
+      <img src="{{ asset('images/KWall-ThreeLittleTrees.webp') }}" class="hover" alt="Three Little Trees">
+    </div>
+    <div class="art-caption">
+      <span class="art-title">Three Little Trees</span>
       <span class="art-meta"></span>
       <span class="art-status"></span>
     </div>
