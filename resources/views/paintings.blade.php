@@ -10,8 +10,8 @@
     </div>
     <div class="art-caption">
       <span class="art-title">Frozen Pond</span>
-      <span class="art-meta"></span>
-      <span class="art-status"></span>
+      <span class="art-meta">50 x 70 cm</span>
+      <span class="art-status">$ 1,000</span>
     </div>
   </a>
 

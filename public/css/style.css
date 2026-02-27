@@ -389,6 +389,28 @@ img {
 
 }
 
+.art-meta,
+.art-status {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+/* Desktop hover */
+@media (hover: hover) and (pointer: fine) {
+  .art:hover .art-meta,
+  .art:hover .art-status {
+    opacity: 1;
+  }
+}
+
+/* Mobile always visible */
+@media (max-width: 900px) {
+  .art-meta,
+  .art-status {
+    opacity: 1;
+  }
+}
+
 /* =========================
    MAILING SECTION
 ========================= */
