@@ -12,8 +12,7 @@
 
   <a href="#<!--  route('painting', 'magic-tree') }} -->" class="art">
     <div class="art-frame">
-      <img src="{{ asset('images/MagicTree.webp') }}" class="base" alt="Magic Tree">
-      <img src="{{ asset('images/KWall-MagicTree.webp') }}" class="hover" alt="Magic Tree">
+      <img src="{{ asset('images/MagicTree.webp') }}" class="" alt="Magic Tree">
     </div>
     <div class="art-caption">
       <span class="art-title">Magic Tree</span>
@@ -24,8 +23,7 @@
 
   <a href="#<!--  route('painting', 'first-snow') }} -->" class="art">
     <div class="art-frame">
-      <img src="{{ asset('images/FirstSnow.webp') }}" class="base" alt="First Snow">
-      <img src="{{ asset('images/KWall-FirstSnow.webp') }}" class="hover" alt="First Snow">
+      <img src="{{ asset('images/FirstSnow.webp') }}" class="" alt="First Snow">
     </div>
     <div class="art-caption">
       <span class="art-title">First Snow</span>
@@ -36,8 +34,7 @@
 
   <a href="#<!--  route('painting', 'first-hand-trees') }} -->" class="art">
     <div class="art-frame">
-      <img src="{{ asset('images/FirstHandTrees.webp') }}" class="base" alt="Field of Red">
-      <img src="{{ asset('images/KWall-FirstHandTrees.webp') }}" class="hover" alt="Field of Red">
+      <img src="{{ asset('images/FirstHandTrees.webp') }}" class="" alt="Field of Red">
     </div>
     <div class="art-caption">
       <span class="art-title">Field of Red</span>
