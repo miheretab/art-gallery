@@ -51,15 +51,15 @@
     </div>
   </a>
 
-  <a href="#<!--  route('painting', 'magic-tree')  -->" class="art">
+  <a href="#<!--  route('painting', 'shore-pine')  -->" class="art">
     <div class="art-frame">
-      <img src="{{ asset('images/MagicTree.webp') }}" class="base" alt="Magic Tree">
-      <img src="{{ asset('images/KWall-MagicTree.webp') }}" class="hover" alt="Magic Tree">
+      <img src="{{ asset('images/ShorePine.webp') }}" class="base" alt="Shore Pine">
+      <img src="{{ asset('images/KWall-ShorePine.jpg') }}" class="hover" alt="Shore Pine">
     </div>
     <div class="art-caption">
-      <span class="art-title">Magic Tree</span>
-      <span class="art-meta">30h x 40w</span>
-      <span class="art-status">$5,750</span>
+      <span class="art-title">Lakeshore Tree</span>
+      <span class="art-meta">40h x 30w</span>
+      <span class="art-status">$5,250</span>
     </div>
   </a>
 
